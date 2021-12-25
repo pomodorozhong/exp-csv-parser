@@ -1,0 +1,19 @@
+# Language: Cpp
+BasedOnStyle: Google
+
+ColumnLimit: 120
+IndentWidth: 4
+AccessModifierOffset: -4
+
+AlignConsecutiveAssignments: true
+AlignConsecutiveDeclarations: true
+AllowShortIfStatementsOnASingleLine: WithoutElse
+
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+AlignAfterOpenBracket: Align
+AllowAllArgumentsOnNextLine: false
+BinPackArguments : false
+BinPackParameters: false
+BreakBeforeBraces: Allman
