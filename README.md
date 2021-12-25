@@ -1,6 +1,6 @@
 # Experiment with "Vince's CSV Parser"
 
-This is a demo project to showcase the basic usage of the ["Vince's CSV Parser"](https://github.com/vincentlaucsb/csv-parser).
+This is a demo project to showcase the basic usage of the [vincentlaucsb/csv-parser](https://github.com/vincentlaucsb/csv-parser).
 
 ## Run
 
